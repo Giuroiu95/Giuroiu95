@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Giuroiu95
-- 👀 I’m interested in programation
-- 🌱 I’m currently learning testing
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
-<!---
-Giuroiu95/Giuroiu95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1.Planificare: 
+
+-OrangeHRM https://opensource:demo.orangehrmlive.com)/web/index.php/pim/viewPersonalDetails/empNumber/7-Criterii de intrare:sa corespunda UI-ul 
+
+--Modulul informatii personale 
+
+
+2.Initierea: 
+
+
+https://drive.google.com/file/d/1sMuq8CRzGOJGTOKr03jfH_iXHzhehh2B/view 
+
+-grupa 6 testare manuala 
+
+3.Review individual; 
+
+-1.Interfata din documentatie difera de cea din modulul de testare 
+
+-2.Partea de Costum Fields nu corespunde 
+
+-3.SSN/SIN nu sunt documentate 
+
+-4.In cadrul sub-categoriei contact details nu mai avem acces la butonul “Edit
