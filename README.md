@@ -2,6 +2,8 @@
 1.Planificare: 
 
 -OrangeHRM https://opensource:demo.orangehrmlive.com)/web/index.php/pim/viewPersonalDetails/empNumber/7
+
+
 -Criterii de intrare:sa corespunda UI-ul 
 
 --Modulul informatii personale 
