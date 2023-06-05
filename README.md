@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1sMuq8CRzGOJGTOKr03jfH_iXHzhehh2B/view
 
 -grupa 6 testare manuala 
 
-3.Review individual; 
+3.Review individual:
 
 -1.Interfata din documentatie difera de cea din modulul de testare 
 
